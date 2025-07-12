@@ -5,6 +5,7 @@ An Oracle SQL and PL/SQL-based Hospital Appointment &amp; Patient Record System 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e27b5be1-ba77-46bf-a88c-258226bcca9f" />
 
 
+
 ---
 
 ## ✅ Key Features
